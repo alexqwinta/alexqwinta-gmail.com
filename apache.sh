@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "----------Start----------"
 
 sudo apt -y update
